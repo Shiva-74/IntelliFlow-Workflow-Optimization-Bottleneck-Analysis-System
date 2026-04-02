@@ -78,6 +78,13 @@ The dataset is synthetically generated and includes:
 The system enables better decision-making by providing clear insights into workflow performance and helps reduce delays through targeted optimization.
 
 ---
+## 📸 Dashboard Preview
+
+### Dashboard View 1
+![Dashboard 1](image-1.png)
+
+### Dashboard View 2
+![Dashboard 2](image-2.png)
 
 ## 📎 How to Use
 1. Load dataset into Power BI  
